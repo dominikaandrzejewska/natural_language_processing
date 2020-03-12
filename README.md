@@ -12,3 +12,6 @@ NLP Practice
 - processing hotel reviews
 - Topic Modelling (LDA) and Topic Visualisation
 
+4. NLP_challenge_day4.ipynb
+- processing job offers (title and descriptions)
+
