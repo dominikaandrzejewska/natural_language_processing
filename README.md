@@ -3,8 +3,12 @@
 NLP Practice
 
 1. NLTK_first.ipynb
-Converting text into tokens and finding the most frequent words
+- Converting text into tokens and finding the most frequent words
 
 2. NLP_challenge_day2.ipynb
-PCA and Word2Vec
+- PCA and Word2Vec
+
+3. NLP_challenge_day3.ipynb
+- processing hotel reviews
+- Topic Modelling (LDA) and Topic Visualisation
 
