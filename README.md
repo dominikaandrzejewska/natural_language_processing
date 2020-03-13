@@ -15,3 +15,7 @@ NLP Practice
 4. NLP_challenge_day4.ipynb
 - processing job offers (title and descriptions)
 
+5. NLP_challenge_day5.ipynb
+- looking for most similar job offers (analyzing Job Titles)
+
+
